@@ -1,0 +1,13 @@
+
+[ ez egy tesztfájl ]
+[ a git rebase használatához ]
+
+[ teszt tartalommal ]
+[ feltöltve ]
+
+[ a git rebase egy nagyon hasznos ]
+[ de veszélyes parancs ]
+	
+[ ezért óvatosan használandó ]		
+[ Sok sikert! ]	
+
