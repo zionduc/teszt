@@ -7,3 +7,5 @@ this line goes to devel branch too
 isnert line
 new line
 just because of the -amend
+
+commit to the devel branch after the clone
