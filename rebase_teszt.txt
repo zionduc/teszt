@@ -4,6 +4,8 @@ elsõ tesztsor
 [ ez egy tesztfájl ]
 [ a git rebase használatához ]
 
+fifth test line
+
 [ teszt tartalommal ]
 [ feltöltve ]
 
