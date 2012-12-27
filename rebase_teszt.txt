@@ -7,9 +7,13 @@ elsõ tesztsor
 [ teszt tartalommal ]
 [ feltöltve ]
 
+3rd test line
+
 [ a git rebase egy nagyon hasznos ]
 [ de veszélyes parancs ]
-	
+
+4th test line
+
 [ ezért óvatosan használandó ]		
 [ Sok sikert! ]	
 
